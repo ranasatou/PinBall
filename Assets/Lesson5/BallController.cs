@@ -22,7 +22,7 @@ public class BallController : MonoBehaviour {
         this.gameoverText = GameObject.Find("GameOverText");
 
         // シーン中のscoreTextオブジェクトを取得
-        this.gameoverText = GameObject.Find("scoreText");
+        //this.gameoverText = GameObject.Find("scoreText");
 
     }
 	
@@ -63,3 +63,4 @@ public class BallController : MonoBehaviour {
 
     
 }
+
